@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="objeto.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="listaBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="paciente.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="estudiante.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="profesor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="estudianteInt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="estudianteNac.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="medico.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="listaMedicos.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="listaPacientes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="profesorInt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="profesorProp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="transporte.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ambulancia.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="taxi.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="listaTaxis.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="listaAmbulancias.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cita.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="listaCitas.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cobro.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="dependencias.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="hospital.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="menu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="listaBase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="paciente.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="estudiante.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="profesor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="estudianteInt.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="estudianteNac.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="medico.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="listaMedicos.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="listaPacientes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="profesorInt.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="profesorProp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="transporte.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ambulancia.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="taxi.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="listaTaxis.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="listaAmbulancias.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cita.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="listaCitas.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cobro.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="hospital.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="menu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+</Project>

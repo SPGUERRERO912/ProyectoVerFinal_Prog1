@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="estudiante" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIgAAAAAAAAAAAAABBQEAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>estudiante.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="estudianteInt" Collapsed="true">
+    <Position X="0.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAICAAACAAAiKAAAAAAAAAAAAgA=</HashCode>
+      <FileName>estudianteInt.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="estudianteNac" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAQAgAAAAAAAAAAAIAACAAAACCAAAAAAAAACAA=</HashCode>
+      <FileName>estudianteNac.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
